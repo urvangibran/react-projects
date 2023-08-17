@@ -1,3 +1,6 @@
 [submodule "01-steps-page"]
 	path = 01-steps-page
 	url = https://github.com/urvangibran/01-steps-page.git
+[submodule "02-checker-app"]
+	path = 02-checker-app
+	url = https://github.com/urvangibran/02-checker-app.git
