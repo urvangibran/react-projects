@@ -4,3 +4,6 @@
 [submodule "02-checker-app"]
 	path = 02-checker-app
 	url = https://github.com/urvangibran/02-checker-app.git
+[submodule "03-flashcard"]
+	path = 03-flashcard
+	url = https://github.com/urvangibran/03-flashcard.git
